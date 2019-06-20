@@ -1,5 +1,5 @@
 # mixpanel-alfred-jql
-Hey you! Do you use Mixpanel? Do you want some JQL shortcuts? No? Well, here they are anyway! Enjoy
+This alfred workflow walks you through some standard JQL methods. Still a work in progress. Feedback welcome.
 
 ## Requirements 
 Must have Alfred with a Powerpack license: https://www.alfredapp.com/powerpack/
